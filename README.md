@@ -8,10 +8,6 @@
 <br />
 <br />
 
-<!--
-<img src="" />
--->
-
 ## 🔧 TOOLS AND LANGUAGES
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-505050?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-505050?style=for-the-badge&logo=visual-studio&logoColor=ffffff)](https://visualstudio.microsoft.com/)
@@ -20,8 +16,7 @@
 [![SQLite](https://img.shields.io/badge/SQLite-505050?style=for-the-badge&logo=sqlite&logoColor=ffffff)](https://www.sqlite.org/index.html)
 [![MYSQL](https://img.shields.io/badge/MYSQL-505050?style=for-the-badge&logo=mysql&logoColor=ffffff)](https://www.mysql.com/)
 [![FIREBASE](https://img.shields.io/badge/FIREBASE-505050?style=for-the-badge&logo=firebase&logoColor=ffffff)](https://firebase.google.com/)
-<br />
-<br />
+
 ![VBA](https://img.shields.io/badge/VBA-505050?style=for-the-badge)
 ![VB.NET](https://img.shields.io/badge/VB.NET-505050?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-505050?style=for-the-badge&logo=C&logoColor=ffffff)
@@ -34,6 +29,8 @@
 ![JAVA](https://img.shields.io/badge/JAVA-505050?style=for-the-badge)
 ![KOTLIN](https://img.shields.io/badge/KOTLIN-505050?style=for-the-badge&logo=kotlin&logoColor=ffffff)
 
+<br />
+<br />
 
 ## 🗒️ OTHER TOOLS THAT I USE AND LEARNED
 ![SKETCH-UP](https://img.shields.io/badge/SKETCH--UP-505050?style=for-the-badge)
