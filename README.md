@@ -49,12 +49,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=DondonDev&theme=darkhub&no-bg=true)
 <details>
 <summary>Show more stats</summary>
-  <br>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DondonDev&theme=dark&bg_color=00000000" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=DondonDev&theme=highcontrast&background=FFFFFF00" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DondonDev&theme=dark&bg_color=00000000" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DondonDev&theme=github_dark" />
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=DondonDev&theme=github-compact" />
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DondonDev&theme=apprentice" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DondonDev&theme=apprentice" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DondonDev&theme=apprentice" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DondonDev&theme=apprentice" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DondonDev&theme=apprentice&utcOffset=8" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=DondonDev&theme=highcontrast&background=262626" />
 </details>
 
 <br />
