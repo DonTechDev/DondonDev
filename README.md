@@ -52,7 +52,7 @@
   <br>
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DondonDev&theme=dark&bg_color=00000000" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=DondonDev&theme=highcontrast&background=FFFFFF00"
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrepol742&theme=dark&bg_color=00000000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DondonDev&theme=dark&bg_color=00000000" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrepol742&theme=github_dark" />
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mrepol742&theme=github-compact" />
 </details>
