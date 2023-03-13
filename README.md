@@ -45,6 +45,11 @@
 <br />
 
 ## &#x1f4c8; GitHub Stats
+![](https://github.com/username/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
+<br />
+<br />
+
 
 <img src="https://github-profile-trophy.vercel.app/?username=mrepol742&theme=dark" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrepol742&theme=dark" />
