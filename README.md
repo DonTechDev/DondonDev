@@ -13,25 +13,26 @@
 -->
 
 ## 🔧 TOOLS AND LANGUAGES
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-505050?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-505050?style=for-the-badge&logo=visual-studio&logoColor=ffffff)](https://visualstudio.microsoft.com/)
+[![ANDROID STUDIO](https://img.shields.io/badge/ANDROID_STUDIO-505050?style=for-the-badge&logo=android-studio&logoColor=ffffff)](https://developer.android.com/studio?gclid=Cj0KCQiAjbagBhD3ARIsANRrqEswSmsPOtJ7pdkuC6hcdUzZ15fDo6j4jzmbiebAW-kw_9uAwlQTSP0aAkK6EALw_wcB&gclsrc=aw.ds)
+[![NOTEPAD++](https://img.shields.io/badge/NOTEPAD%2B%2B-505050?style=for-the-badge&logo=notepad%2B%2B&logoColor=ffffff)](https://notepad-plus-plus.org/downloads/)
+[![SQLite](https://img.shields.io/badge/SQLite-505050?style=for-the-badge&logo=sqlite&logoColor=ffffff)](https://www.sqlite.org/index.html)
+[![MYSQL](https://img.shields.io/badge/MYSQL-505050?style=for-the-badge&logo=mysql&logoColor=ffffff)](https://www.mysql.com/)
+[![FIREBASE](https://img.shields.io/badge/FIREBASE-505050?style=for-the-badge&logo=firebase&logoColor=ffffff)](https://firebase.google.com/)
 <br />
-![Visual Basic](https://img.shields.io/badge/VB-Visual%20Basic-orange)
-![VB.NET](https://img.shields.io/badge/VB.NET-VISUAL%20BASIC.NET-blue)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+<br />
+![VBA](https://img.shields.io/badge/VBA-505050?style=for-the-badge)
+![VB.NET](https://img.shields.io/badge/VB.NET-505050?style=for-the-badge)
+![C](https://img.shields.io/badge/C-505050?style=for-the-badge&logo=C&logoColor=ffffff)
+![C++](https://img.shields.io/badge/C%2B%2B-505050?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)
+![C#](https://img.shields.io/badge/C%23-505050?style=for-the-badge&logo=csharp&logoColor=ffffff)
+![PYTHON](https://img.shields.io/badge/PYTHON-505050?style=for-the-badge&logo=python&logoColor=ffffff)
+![HTML](https://img.shields.io/badge/HTML-505050?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-505050?style=for-the-badge&logo=php&logoColor=ffffff)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-505050?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![JAVA](https://img.shields.io/badge/JAVA-505050?style=for-the-badge)
+![KOTLIN](https://img.shields.io/badge/KOTLIN-505050?style=for-the-badge&logo=kotlin&logoColor=ffffff)
 
 
 ## 🗒️ OTHER TOOLS THAT I USE AND LEARNED
