@@ -1,18 +1,52 @@
 # Hi there 👋
   
 ## ABOUT ME:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My name is **Alfredo P. Anojan III** from Philippines. A passionate self taught Full Stack Software Developer and currently working as a freelance, i have also experiences in App Development, Web Development and have knowledge about Computer Hardwares. I started self studying back in 2018 when i found programming very interesting thing to study.  Even though i am under graduate in Computer Science back in (2018-2020) i am confident on my skills and experience base on projects that i created and on my clients testimonies.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My name is **Alfredo P. Anojan III** from Philippines. A passionate self taught Full Stack Software Developer and currently working as a freelance, i have also experiences in Mobile App Development, Web Development, knowledge about Computer Hardwares. I started self studying back in 2018 when i found programming very interesting thing to study.  Even though i am under graduate in Computer Science back in (2018-2020) i am confident on my skills and experience base on projects that i created and on my clients testimonies.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am also an open-source enthusiast and maintainer, i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 <br />
 <br />
 
+## :wave:
+
 <!--
 <img src="" />
 -->
 
 ## 🔧 LANGUAGES AND TOOLS
+HTML and CSS
+Python
+Java
+JavaScript
+Swift
+C++
+C#
+R
+Golang (Go)
+PHP
+TypeScript
+Scala
+Shell
+PowerShell
+Perl
+Haskell
+Kotlin
+Visual Basic .NET
+SQL
+Delphi
+MATLAB
+Groovy
+Lua
+Rust
+Ruby
+C
+Dart
+DM
+
+
+
+
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![image](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />
