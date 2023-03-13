@@ -5,6 +5,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am also an open-source enthusiast and maintainer, i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
+<br />
+<br />
+
 ## 🔧 LANGUAGES AND TOOLS
 ![](https://img.shields.io/badge/VBA-Visual%20Basic-green)
 ![](https://img.shields.io/badge/.NET-VB.NET%20%26%20C%23.NET-green)
@@ -12,29 +15,57 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=green)
 
+<br />
+<br />
 
 ## &#x1f4c8; GitHub Stats
+<!--
+![DondonDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=DondonDev&show_icons=true&theme=dark&bg_color=1D1F21&text_color=FFFFFF&hide_title=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DondonDev&layout=compact&theme=dark&bg_color=1D1F21&text_color=FFFFFF)](https://github.com/DondonDev)
+[![DondonDev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DondonDev&layout=compact&bg_color=1D1F21&text_color=FFFFFF&title_color=FFFFFF)](https://github.com/DondonDev)
+<br />
+<br />
+<br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DondonDev&repo=DondonDev&theme=dark&bg_color=1D1F21&text_color=FFFFFF)](https://github.com/DondonDev/DondonDev)
+
+
+![DondonDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrepol742&show_icons=true&theme=dark&bg_color=1D1F21&text_color=FFFFFF&hide_title=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrepol742&layout=compact&theme=dark&bg_color=1D1F21&text_color=FFFFFF)](https://github.com/DondonDev)
+[![DondonDev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrepol742&layout=compact&bg_color=1D1F21&text_color=FFFFFF&title_color=FFFFFF)](https://github.com/DondonDev)
+<br />
+<br />
+<br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrepol742&repo=mrepol742&theme=dark&bg_color=1D1F21&text_color=FFFFFF)](https://github.com/DondonDev/DondonDev)
+-->
+
+
+
+
+<!--
+<img src="" />
+-->
+
+<img src="https://github-profile-trophy.vercel.app/?username=mrepol742&theme=dark" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=mrepol742&theme=github-compact" />
+<img src="https://gists-readme.yizack.com/api?user=mrepol742" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrepol742&theme=github_dark" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrepol742&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrepol742&theme=dark" />
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrepol7421212%2Fhit-counter" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrepol742&theme=dark" />
 
 
 
 
 
-<a href="https://github.com/DondonDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DondonDev&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8" />
-</a>
-
-<a href="https://github.com/DondonDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DondonDev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="DodonDev's GitHub Stats" />
-</a>
-
-<a href="https://github.com/DonDonDev">
-  <img align="center" src="https://github-readm&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
 
-<a href="https://github.com/DonDonDev/DondonDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DondonDev&repo=DondonDev&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+
+
+
+
+
+  
 
 <!-- links to social media icons -->
 
