@@ -44,13 +44,18 @@
 <br />
 <br />
 
-## &#x1f4c8; GitHub Stats
-<img src="https://github-profile-trophy.vercel.app/?username=mrepol742&theme=dark" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrepol742&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrepol742&theme=dark" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrepol742&theme=dark" />
+## &#x1f4c8; GITHUB STATS
+### MY TROPIES
+[![trophy](https://github-profile-trophy.vercel.app/?username=DondonDev&theme=darkhub&no-bg=true)
+<details>
+<summary>Show more stats</summary>
+  <br>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DondonDev&theme=dark&bg_color=00000000" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=DondonDev&theme=highcontrast&background=FFFFFF00"
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrepol742&theme=dark&bg_color=00000000" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrepol742&theme=github_dark" />
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mrepol742&theme=github-compact" />
+</details>
 
 <br />
 <br />
