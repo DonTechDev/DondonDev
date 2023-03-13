@@ -36,18 +36,13 @@
 
 
 ## 🗒️ OTHER TOOLS THAT I USE AND LEARNED
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![MS Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![MS Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
-![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![MS Power Point](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=wh" />
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" />
-<img src="https://img.shields.io/badge/SKP-SKETCH%20UP-green" />
-<img src="https://img.shields.io/badge/DWG-AUTOCAD-blue" />
+![SKETCH-UP](https://img.shields.io/badge/SKETCH--UP-505050?style=for-the-badge)
+![AUTO-CAD](https://img.shields.io/badge/AUTO--CAD-505050?style=for-the-badge)
+![MS-Office](https://img.shields.io/badge/MS--Office-505050?style=for-the-badge&logo=microsoft-office&logoColor=ffffff)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-505050?style=for-the-badge&logo=adobe-photoshop&logoColor=ffffff)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-505050?style=for-the-badge&logo=adobe-premiere-pro&logoColor=ffffff)
+![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-505050?style=for-the-badge&logo=adobe-after-effects&logoColor=ffffff)
+![Adobe Light Room](https://img.shields.io/badge/Adobe_Light_Room-505050?style=for-the-badge&logo=adobe-lightroom&logoColor=ffffff)
 
 <br />
 <br />
@@ -65,49 +60,11 @@
 <br />
 
 ## 🔧 Social Accounts
-![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-![image](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
-
-
-
-
-
-
-  
-
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
-
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-
-
+![Facebook](https://img.shields.io/badge/Facebook-505050?style=for-the-badge&logo=facebook&logoColor=ffffff)
+![Twitter](https://img.shields.io/badge/Twitter-505050?style=for-the-badge&logo=twitter&logoColor=ffffff)
+![Discord](https://img.shields.io/badge/Discord-505050?style=for-the-badge&logo=discord&logoColor=ffffff)
+![Viber](https://img.shields.io/badge/Viber-505050?style=for-the-badge&logo=viber&logoColor=ffffff)
+![Telegram](https://img.shields.io/badge/Telegram-505050?style=for-the-badge&logo=telegram&logoColor=ffffff)
 
 
 
