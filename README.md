@@ -57,6 +57,7 @@
 <summary>SHOW OTHER STATS</summary>
 
 <img src="https://github-profile-trophy.vercel.app/?username=DondonDev&theme=gitdimmed" />
+  
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DondonDev&theme=apprentice" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DondonDev&theme=apprentice" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DondonDev&theme=apprentice" />
