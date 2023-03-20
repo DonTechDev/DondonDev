@@ -51,13 +51,12 @@
 <br />
 
 ## &#x1f4c8; MY GITHUB STATS
-#### DondonDev GitHub Stats
+#### DondonDev's GitHub Stats
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DondonDev&theme=apprentice" />
 <details>
 <summary>SHOW OTHER STATS</summary>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DondonDev&theme=gitdimmed)
-
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DondonDev&theme=apprentice" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DondonDev&theme=apprentice" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DondonDev&theme=apprentice" />
